@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.Menu {
+  background-color: blueviolet;
+  width: 100%;
+}
+.App-header {
+  background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Band-hd-wallpaper.jpg");
+  background-repeat: no-repeat;
+  height: 1080px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.loginForm {
+  width: 400px;
+  height: 400px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 150px;
+}
